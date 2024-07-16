@@ -1,4 +1,4 @@
-# Emotion-based-music-recommendation
+# Mood-based-music-recommendation
 
 # Emotion-Based Music Recommender
 
